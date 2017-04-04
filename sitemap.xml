@@ -30,7 +30,6 @@
 		<lastmod>2017-03-04</lastmod>
 		<priority>0.5</priority>
 	</url>
-	<!--  individual posts  -->
 	<url>
 		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170305_NewName.html</loc>
 		<lastmod>2017-03-05</lastmod>
@@ -70,6 +69,12 @@
 		<url>
 		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170403_HumanMilku.html</loc>
 		<lastmod>2017-04-03</lastmod>
+		<priority>0.5</priority>
+	</url>
+	</url>
+		<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170404_Riverbank.html</loc>
+		<lastmod>2017-04-04</lastmod>
 		<priority>0.5</priority>
 	</url>
 
