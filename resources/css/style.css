@@ -1,3 +1,6 @@
+p {
+	font-size: 16px;
+}
 .navbar a {
 	color: white;
 	font-size: 15px;
@@ -24,6 +27,7 @@ header {
 header h1 {
 	font-size: 50px;
 }
+
 .posts {
 	border-bottom: 1px solid black;
 }
@@ -64,4 +68,8 @@ header h1 {
     display: block;
     margin: auto;
     padding: 20px;
+}
+
+.resized-image {
+	width: 50%;
 }
