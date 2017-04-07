@@ -73,3 +73,7 @@ header h1 {
 .resized-image {
 	width: 50%;
 }
+
+.resized-image-25 {
+	width: 25%;
+}
