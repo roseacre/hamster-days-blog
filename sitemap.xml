@@ -120,5 +120,14 @@
 		<lastmod>2017-04-14</lastmod>
 		<priority>0.5</priority>
 	</url>
-
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170415_Abuse.html</loc>
+		<lastmod>2017-04-15</lastmod>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170416_Easter.html</loc>
+		<lastmod>2017-04-16</lastmod>
+		<priority>0.5</priority>
+	</url>
 </urlset>
