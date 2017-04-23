@@ -19,8 +19,8 @@ p {
 }
 
 header {
-	height: 350px;
-	padding: 120px 50px;
+	height: 220px;
+	padding: 60px 50px;
 	color: white;
 }
 
@@ -81,3 +81,13 @@ header h1 {
 .resized-image-60 {
 	width: 60%;
 }
+
+.resized-image-100 {
+	width: 100%;
+}
+
+.img-thumbnail img {
+	width: 200px;
+	height: 150px;
+}
+
