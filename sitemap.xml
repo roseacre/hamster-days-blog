@@ -24,6 +24,12 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.65</priority>
 	</url>
+	<!--  gallery  -->
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/gallery.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.65</priority>
+	</url>
 	<!--  individual posts  -->
 	<url>
 		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170304_NewHome.html</loc>
@@ -148,6 +154,11 @@
 	<url>
 		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170421_PopVideo.html</loc>
 		<lastmod>2017-04-21</lastmod>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170423_HamsterMuseum.html</loc>
+		<lastmod>2017-04-23</lastmod>
 		<priority>0.5</priority>
 	</url>
 </urlset>
