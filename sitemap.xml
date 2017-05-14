@@ -235,4 +235,16 @@
 		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170511_EatAnything.html</loc>
 		<lastmod>2017-05-11</lastmod>
 		<priority>0.5</priority>
-	</url>	</urlset>
+	</url>	
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170512_Limericks.html</loc>
+		<lastmod>2017-05-12</lastmod>
+		<priority>0.5</priority>
+	</url>	
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170514_Eurovision.html</loc>
+		<lastmod>2017-05-14</lastmod>
+		<priority>0.5</priority>
+	</url>	
+
+</urlset>
