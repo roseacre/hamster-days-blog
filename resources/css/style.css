@@ -112,3 +112,22 @@ header h1 {
 	text-align: center;
 	font-weight: bold;
 }
+
+.panel_colour_light {
+	background-color: #f2f2f2 !important;
+}
+
+.panel_colour_medium {
+	background-color: #d9d9d9 !important;
+}
+
+.panel_colour_dark {
+	background-color: #bfbfbf !important;
+}
+
+.right-align {
+	text-align: right;
+	margin-top: -18px;
+	font-size: 14px;
+	margin-bottom: -2px;
+}

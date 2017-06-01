@@ -30,6 +30,13 @@
 		<changefreq>daily</changefreq>
 		<priority>0.65</priority>
 	</url>
+	<!-- 30 Days Wild Posts -->
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/30dayswild/20170601_DayOne.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.65</priority>
+	</url>
+	
 	<!--  individual posts  -->
 	<url>
 		<loc>http://www.hamsterdays.byethost7.com/html/posts/20170304_NewHome.html</loc>
