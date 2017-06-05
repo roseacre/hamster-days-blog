@@ -78,6 +78,10 @@ header h1 {
 	width: 25%;
 }
 
+.resized-image-45 {
+	padding-left: 40px;
+	width: 45%;
+}
 .resized-image-60 {
 	width: 60%;
 }
@@ -130,4 +134,8 @@ header h1 {
 	margin-top: -18px;
 	font-size: 14px;
 	margin-bottom: -2px;
+}
+
+.flipped {
+    transform: rotateZ(180deg);
 }
