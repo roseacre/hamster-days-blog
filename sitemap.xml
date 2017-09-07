@@ -30,6 +30,26 @@
 		<changefreq>daily</changefreq>
 		<priority>0.65</priority>
 	</url>
+	
+	<!-- September 2017 Posts -->
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170901_AppleJacks.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170904_LastDay.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170906_BackToSchool.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170907_Days.html</loc>
+		<priority>0.65</priority>
+	</url>
+	
+	
 	<!-- August 2017 Posts -->
 	<url>
 		<loc>http://www.hamsterdays.byethost7.com/html/posts/August2017/20170801_Prediction.html</loc>
