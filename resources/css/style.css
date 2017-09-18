@@ -1,3 +1,6 @@
+p {
+	font-size: 16px;
+}
 .navbar a {
 	color: white;
 	font-size: 15px;
@@ -16,14 +19,15 @@
 }
 
 header {
-	height: 350px;
-	padding: 120px 50px;
+	height: 220px;
+	padding: 60px 50px;
 	color: white;
 }
 
 header h1 {
 	font-size: 50px;
 }
+
 .posts {
 	border-bottom: 1px solid black;
 }
@@ -59,4 +63,89 @@ header h1 {
 .m-col {
 	-webkit-column-count: 3;
 	column-count: 3;
+}
+.centred-image {
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
+.resized-image {
+	width: 50%;
+}
+
+.resized-image-25 {
+	width: 25%;
+}
+
+.resized-image-45 {
+	padding-left: 40px;
+	width: 45%;
+}
+.resized-image-60 {
+	width: 60%;
+}
+
+.resized-image-100 {
+	width: 100%;
+}
+
+.img-thumbnail img {
+	width: 200px;
+	height: 150px;
+}
+
+.OP_lead {
+	font-size:14px;
+	font-weight:300;
+	line-height:1.4
+}
+
+.OP_paragraph {
+	font-size:14px;
+}
+
+.OP_header {
+	font-size:18px;
+	font-weight: bold;
+}
+
+.quote {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.panel_colour_light {
+	background-color: #f2f2f2 !important;
+}
+
+.panel_colour_medium {
+	background-color: #d9d9d9 !important;
+}
+
+.panel_colour_dark {
+	background-color: #bfbfbf !important;
+}
+
+.right-align {
+	text-align: right;
+	margin-top: -18px;
+	font-size: 14px;
+	margin-bottom: -2px;
+}
+
+.flipped {
+    transform: rotateZ(180deg);
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg); /* Safari and Chrome */
+    -moz-transform: rotate(90deg);   /* Firefox */
+    -ms-transform: rotate(90deg);   /* IE 9 */
+    -o-transform: rotate(90deg);   /* Opera */
+    transform: rotate(90deg);
+    padding-top: 30px;
+    padding-bottom: 100px;
 }
