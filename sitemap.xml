@@ -31,6 +31,13 @@
 		<priority>0.65</priority>
 	</url>
 	
+	<!-- October Posts -->
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/October2017/20171001_Cake.html</loc>
+		<priority>0.65</priority>
+	</url>
+	
+	
 	<!-- September 2017 Posts -->
 	<url>
 		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170901_AppleJacks.html</loc>
@@ -68,7 +75,30 @@
 		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170918_Respect.html</loc>
 		<priority>0.65</priority>
 	</url>
-	
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170919_Pirates.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170920_Punch.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170922_Hobbits.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170925_Papers.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170927_Ancestors.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/September2017/20170928_Apollon.html</loc>
+		<priority>0.65</priority>
+	</url>	
 	
 	<!-- August 2017 Posts -->
 	<url>
