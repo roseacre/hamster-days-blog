@@ -30,6 +30,56 @@
 		<changefreq>daily</changefreq>
 		<priority>0.65</priority>
 	</url>
+
+	<!-- November Posts -->
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171101_Cooking.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171102_GirlsAloud.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171103_Pens.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171107_Novel.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171110_Sesame.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171113_SchoolDinners.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171116_Craft.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171120_Relationships.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171121_Hello.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171124_BlackFriday.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171127_Chang.html</loc>
+		<priority>0.65</priority>
+	</url>
+	<url>
+		<loc>http://www.hamsterdays.byethost7.com/html/posts/November2017/20171130_Alright.html</loc>
+		<priority>0.65</priority>
+	</url>
 	
 	<!-- October Posts -->
 	<url>
